@@ -1,6 +1,6 @@
 {
   "vaultName": "PrototypingStudio",
-  "lastExport": 1718373248724,
+  "lastExport": 1718919100723,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -11,6 +11,7 @@
     "Public/CNC/Laguna Pre-Cut Checklist.md",
     "Public/DemoBoard/Prototyping Studio Demo Board.md",
     "Public/Index.md",
+    "lib/media/pasted-image-20240620173103.png",
     "lib/media/pasted-image-20240507155313.png",
     "lib/media/pasted-image-20240507155955.png",
     "lib/media/pasted-image-20240507155011.png",
@@ -89,10 +90,11 @@
   ],
   "fileInfo": {
     "Public/CNC/CNC Project Showcase.md": {
-      "modifiedTime": 1718373248724,
-      "sourceSize": 446,
+      "modifiedTime": 1718919100723,
+      "sourceSize": 536,
       "exportedPath": "public/cnc/cnc-project-showcase.html",
       "dependencies": [
+        "lib/media/pasted-image-20240620173103.png",
         "lib/media/pasted-image-20240507155313.png",
         "lib/media/pasted-image-20240507155955.png",
         "lib/media/pasted-image-20240507155011.png",
@@ -103,7 +105,7 @@
       ]
     },
     "Public/CNC/Laguna CNC Operation Instructions.md": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 18197,
       "exportedPath": "public/cnc/laguna-cnc-operation-instructions.html",
       "dependencies": [
@@ -138,345 +140,351 @@
       ]
     },
     "Public/CNC/Laguna Pre-Cut Checklist.md": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 1087,
       "exportedPath": "public/cnc/laguna-pre-cut-checklist.html",
       "dependencies": []
     },
     "Public/DemoBoard/Prototyping Studio Demo Board.md": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 869,
       "exportedPath": "public/demoboard/prototyping-studio-demo-board.html",
       "dependencies": []
     },
     "lib/media/pasted-image-20240507155313.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 907087,
       "exportedPath": "lib/media/pasted-image-20240507155313.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240507155955.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 708506,
       "exportedPath": "lib/media/pasted-image-20240507155955.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240507155011.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 1004776,
       "exportedPath": "lib/media/pasted-image-20240507155011.png",
       "dependencies": []
     },
     "lib/media/pxl_20240408_194056440.jpg": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 3044948,
       "exportedPath": "lib/media/pxl_20240408_194056440.jpg",
       "dependencies": []
     },
     "lib/media/pasted-image-20240507160846.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 546244,
       "exportedPath": "lib/media/pasted-image-20240507160846.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240507160937.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 663433,
       "exportedPath": "lib/media/pasted-image-20240507160937.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240425125434.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 1053781,
       "exportedPath": "lib/media/pasted-image-20240425125434.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240425152111.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 1512441,
       "exportedPath": "lib/media/pasted-image-20240425152111.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240425152207.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 905524,
       "exportedPath": "lib/media/pasted-image-20240425152207.png",
       "dependencies": []
     },
     "lib/media/pxl_20240319_145331118.jpg": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 2421298,
       "exportedPath": "lib/media/pxl_20240319_145331118.jpg",
       "dependencies": []
     },
     "lib/media/pasted-image-20240425144427.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 745212,
       "exportedPath": "lib/media/pasted-image-20240425144427.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240425143741.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 629469,
       "exportedPath": "lib/media/pasted-image-20240425143741.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240425164514.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 1384428,
       "exportedPath": "lib/media/pasted-image-20240425164514.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240423163839.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 14514,
       "exportedPath": "lib/media/pasted-image-20240423163839.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240313132650.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 671732,
       "exportedPath": "lib/media/pasted-image-20240313132650.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240424141613.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 530794,
       "exportedPath": "lib/media/pasted-image-20240424141613.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240426144814.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 276667,
       "exportedPath": "lib/media/pasted-image-20240426144814.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240321100257.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 774771,
       "exportedPath": "lib/media/pasted-image-20240321100257.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240325143617.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 66876,
       "exportedPath": "lib/media/pasted-image-20240325143617.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240321100934.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 654354,
       "exportedPath": "lib/media/pasted-image-20240321100934.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240325132025.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 694348,
       "exportedPath": "lib/media/pasted-image-20240325132025.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240325131546.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 588592,
       "exportedPath": "lib/media/pasted-image-20240325131546.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240325133105.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 812902,
       "exportedPath": "lib/media/pasted-image-20240325133105.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240325134011.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 48324,
       "exportedPath": "lib/media/pasted-image-20240325134011.png",
       "dependencies": []
     },
     "lib/media/pxl_20240319_172848682.jpg": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 4781898,
       "exportedPath": "lib/media/pxl_20240319_172848682.jpg",
       "dependencies": []
     },
     "lib/media/pxl_20240319_173002852-1.jpg": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 4774186,
       "exportedPath": "lib/media/pxl_20240319_173002852-1.jpg",
       "dependencies": []
     },
     "lib/media/pxl_20240319_173301916.jpg": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 4756596,
       "exportedPath": "lib/media/pxl_20240319_173301916.jpg",
       "dependencies": []
     },
     "lib/media/pxl_20240320_165610904.jpg": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 3167520,
       "exportedPath": "lib/media/pxl_20240320_165610904.jpg",
       "dependencies": []
     },
     "lib/media/pxl_20240320_170425712.jpg": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 3628793,
       "exportedPath": "lib/media/pxl_20240320_170425712.jpg",
       "dependencies": []
     },
     "lib/media/pasted-image-20240321105401.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 223249,
       "exportedPath": "lib/media/pasted-image-20240321105401.png",
       "dependencies": []
     },
     "lib/media/pxl_20240321_172025118.jpg": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 2549658,
       "exportedPath": "lib/media/pxl_20240321_172025118.jpg",
       "dependencies": []
     },
     "lib/media/pxl_20240319_144259489.jpg": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 2811689,
       "exportedPath": "lib/media/pxl_20240319_144259489.jpg",
       "dependencies": []
     },
     "lib/media/pxl_20240319_171946523.jpg": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 2273074,
       "exportedPath": "lib/media/pxl_20240319_171946523.jpg",
       "dependencies": []
     },
     "lib/media/pxl_20240319_172014827.jpg": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 2865907,
       "exportedPath": "lib/media/pxl_20240319_172014827.jpg",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 129920,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 328,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Public/Index.md": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 149,
       "exportedPath": "public/index.html",
       "dependencies": []
     },
     "lib/media/pxl_20240606_214558811.jpg": {
-      "modifiedTime": 1718373248724,
+      "modifiedTime": 1718919100723,
       "sourceSize": 2985701,
       "exportedPath": "lib/media/pxl_20240606_214558811.jpg",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240620173103.png": {
+      "modifiedTime": 1718919100723,
+      "sourceSize": 1327354,
+      "exportedPath": "lib/media/pasted-image-20240620173103.png",
       "dependencies": []
     }
   }
