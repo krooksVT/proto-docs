@@ -1,5 +1,5 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[PrototypingStudio]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>PrototypingStudio</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 20 Jun 2024 21:33:01 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 20 Jun 2024 21:33:00 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[CNC Project Showcase]]></title><description><![CDATA[ 
- <br><br><br><img alt="Pasted image 20240620173103.png" src="\lib\media\pasted-image-20240620173103.png"><br><br><img alt="PXL_20240606_214558811.jpg" src="\lib\media\pxl_20240606_214558811.jpg"><br><br><br><img alt="Pasted image 20240507155313.png" src="\lib\media\pasted-image-20240507155313.png"><br><br><img alt="Pasted image 20240507155955.png" src="\lib\media\pasted-image-20240507155955.png"><br><br><img alt="Pasted image 20240507155011.png" src="\lib\media\pasted-image-20240507155011.png"><br><br><img alt="PXL_20240408_194056440.jpg" src="\lib\media\pxl_20240408_194056440.jpg" style="width: 400px; max-width: 100%;"><br><br><img alt="Pasted image 20240507160846.png" src="\lib\media\pasted-image-20240507160846.png"><br><br><img alt="Pasted image 20240507160937.png" src="\lib\media\pasted-image-20240507160937.png">]]></description><link>public\cnc\cnc-project-showcase.html</link><guid isPermaLink="false">Public/CNC/CNC Project Showcase.md</guid><pubDate>Thu, 20 Jun 2024 21:32:37 GMT</pubDate><enclosure url="lib\media\pasted-image-20240620173103.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240620173103.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Laguna CNC Operation Instructions]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[PrototypingStudio]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>PrototypingStudio</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 02 Jul 2024 18:16:45 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 02 Jul 2024 18:16:43 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[CNC Project Showcase]]></title><description><![CDATA[ 
+ <br><br><br><img alt="PXL_20240702_180558808.jpg" src="\lib\media\pxl_20240702_180558808.jpg" style="width: 700px; max-width: 100%;"><br><br><img alt="Pasted image 20240620173103.png" src="\lib\media\pasted-image-20240620173103.png" style="width: 700px; max-width: 100%;"><br><br><img alt="PXL_20240606_214558811.jpg" src="\lib\media\pxl_20240606_214558811.jpg" style="width: 700px; max-width: 100%;"><br><br><br><img alt="Pasted image 20240507155313.png" src="\lib\media\pasted-image-20240507155313.png" style="width: 700px; max-width: 100%;"><br><br><img alt="Pasted image 20240507155955.png" src="\lib\media\pasted-image-20240507155955.png" style="width: 700px; max-width: 100%;"><br><br><img alt="Pasted image 20240507155011.png" src="\lib\media\pasted-image-20240507155011.png" style="width: 700px; max-width: 100%;"><br><br><img alt="PXL_20240408_194056440.jpg" src="\lib\media\pxl_20240408_194056440.jpg" style="width: 400px; max-width: 100%;"><br><br><img alt="Pasted image 20240507160846.png" src="\lib\media\pasted-image-20240507160846.png" style="width: 700px; max-width: 100%;"><br><br><img alt="Pasted image 20240507160937.png" src="\lib\media\pasted-image-20240507160937.png" style="width: 700px; max-width: 100%;">]]></description><link>public\cnc\cnc-project-showcase.html</link><guid isPermaLink="false">Public/CNC/CNC Project Showcase.md</guid><pubDate>Tue, 02 Jul 2024 18:16:26 GMT</pubDate><enclosure url="lib\media\pxl_20240702_180558808.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pxl_20240702_180558808.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Laguna CNC Operation Instructions]]></title><description><![CDATA[ 
  <br><br><br><img alt="Pasted image 20240425125434.png" src="\lib\media\pasted-image-20240425125434.png"><br><br><img alt="Pasted image 20240425152111.png" src="\lib\media\pasted-image-20240425152111.png"><br><br><img alt="Pasted image 20240425152207.png" src="\lib\media\pasted-image-20240425152207.png"><br><br><img alt="PXL_20240319_145331118.jpg" src="\lib\media\pxl_20240319_145331118.jpg" style="width: 400px; max-width: 100%;"><br>
 <br>Tool rack has space for up to 8 tools, numbered 1-8 (left to right as viewed from front)
 <br><br><img alt="Pasted image 20240425144427.png" src="\lib\media\pasted-image-20240425144427.png"><br><br><img alt="Pasted image 20240425143741.png" src="\lib\media\pasted-image-20240425143741.png"><br><br><img alt="Pasted image 20240425164514.png" src="\lib\media\pasted-image-20240425164514.png"><br>
@@ -62,20 +62,17 @@
 
 
 <br><br>
-<br>
-Tool paths should be generated immediately prior to cutting to ensure bit numbers have not changed.
+<br>Tool paths should be generated immediately prior to cutting to ensure bit numbers have not changed.
 
 <br>If a tool path takes a long time to generate and/or must be generated in advance, make sure to verify each tool number in the operation vs the tools installed in the machine before starting a cut.
 
 
-<br>
-Utilize template &amp; bit library via Fusion 360 teams (requires invite to proto team) as much as possible
+<br>Utilize template &amp; bit library via Fusion 360 teams (requires invite to proto team) as much as possible
 
 <br><a rel="noopener" class="external-link" href="https://help.autodesk.com/view/fusion360/ENU/?guid=MFG-REF-TOOLPATH-TEMPLATE-LIBRARY" target="_blank">https://help.autodesk.com/view/fusion360/ENU/?guid=MFG-REF-TOOLPATH-TEMPLATE-LIBRARY</a>
 
 
-<br>
-Check template library for preset operations, for example 2D contour cut in plywood.
+<br>Check template library for preset operations, for example 2D contour cut in plywood.
 
 <br>Make sure to select "Cloud" templates for most up to date feeds &amp; speeds
 <br>These templates represent previous successful operations and should be utilized whenever possible.
@@ -89,15 +86,11 @@ Check template library for preset operations, for example 2D contour cut in plyw
 
 
 
-<br>
-Note, tool numbers in templates are NOT automatically updated and need to be verified against latest installed tools
-
-<br>
-Setup &gt; Create From Template &gt; Select Template<br>
+<br>Note, tool numbers in templates are NOT automatically updated and need to be verified against latest installed tools
+<br>####### Toolpaths from Template<br>
+<br>Setup &gt; Create From Template &gt; Select Template<br>
 <img alt="Pasted image 20240321100257.png" src="\lib\media\pasted-image-20240321100257.png">
-
-<br>
-Make sure "Cloud" templates are selected unless explicitly using a local template
+<br>Make sure "Cloud" templates are selected unless explicitly using a local template
 
 <br>Cloud libraries must be enabled (<a rel="noopener" class="external-link" href="https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-install-a-cloud-tool-library-in-Fusion-360.html" target="_blank">https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-install-a-cloud-tool-library-in-Fusion-360.html</a>)
 
@@ -105,6 +98,50 @@ Make sure "Cloud" templates are selected unless explicitly using a local templat
 <br><img alt="Pasted image 20240325143617.png" src="\lib\media\pasted-image-20240325143617.png"><br>
 <br>When selecting a contour cut, pay attention to which side of the cut line the bit is on (indicated w/ a red arrow). Clicking on the red arrow will change where the bit cuts relative to the indicated contour line.<br>
 <img alt="Pasted image 20240321100934.png" src="\lib\media\pasted-image-20240321100934.png">
+<br><br>
+<br>2D Adaptive preferred over 2D Pocket, high speed machining (HSM) limits how much of the bit is cutting at a given time, improving tool life and reducing breakage
+
+<br><a rel="noopener" class="external-link" href="https://help.autodesk.com/view/fusion360/ENU/?guid=GUIDA73542E9-ED9C-4BD9-A87D-3A0ECA8BEB41" target="_blank">https://help.autodesk.com/view/fusion360/ENU/?guid=GUIDA73542E9-ED9C-4BD9-A87D-3A0ECA8BEB41</a>
+<br>Optimal load: 0.25 x tool_diameter
+<br>Depth of cut: Max 50% diameter of tool
+
+
+<br><br>
+<br>Critical parameters
+
+<br>Tool Tab
+
+<br>Feed per tooth
+
+<br>Indicates how much material is each revolution by each cutting edge when the machine is performing a normal cut, typical values range from (0.002 to 0.01")
+
+
+<br>Plunge Feed per Revolution
+
+<br>Same as feed per tooth but specific to vertical cutting/drilling, end mills have different geometry than drill bits and are not as efficient cutting straight down into material. Typical values are ~50% of the feed per tooth value (0.001 to 0.005")
+
+
+
+
+<br><img alt="Pasted image 20240627150629.png" src="\lib\media\pasted-image-20240627150629.png">
+<br>Passes Tab
+
+<br>Optimal Load
+
+<br>Indicates the maximum amount of tool engagement, as a rule of thumb this value should be approximately 25% of the tool diameter
+
+<br>For example, a good starting point for a 3/8" endmill is 0.09375" (0.375 * 0.25)
+
+
+<br>This value can be increased or decrease when machining harder/softer materials (lower for hard materials, higher for soft materials)
+
+
+<br>Maximum Roughing Stepdown
+
+
+<br><img alt="Pasted image 20240627150658.png" src="\lib\media\pasted-image-20240627150658.png">
+
+
 <br><br>
 <br>All generated tool paths should be simulated prior to post processing
 <br>Individual or multiple tool paths can be simulated by selecting desired operations (or setup for all), then selecting "Simulate"<br>
@@ -278,7 +315,7 @@ Emergency Stop (Optional, hopefully)
 <img alt="PXL_20240320_170425712.jpg" src="\lib\media\pxl_20240320_170425712.jpg" style="width: 350px; max-width: 100%;"><br><br>
 <br>Many tool manufacturers provide feed &amp; speed recommendations for their tools. These settings provide a good starting point and should be utilized when dialing in settings for new materials. It is important to note the RPM ratings on bits and not to exceed these values when setting up operations.
 <br>Most of the tools used in the Laguna CNC are from Amana Tools. Amana has a Fusion 360 library of their bit offerings, including all the relevant numbers and measurements which describe the tools geometry (number of cutting flutes, length of flutes, bit diameter, etc).
-<br><img alt="Pasted image 20240321105401.png" src="\lib\media\pasted-image-20240321105401.png"><br>
+<br><br><img alt="Pasted image 20240321105401.png" src="\lib\media\pasted-image-20240321105401.png"><br>
 <br><a rel="noopener" class="external-link" href="https://www.endmill.com.au/blog/choosing-the-right-end-mill-for-the-job/" target="_blank">https://www.endmill.com.au/blog/choosing-the-right-end-mill-for-the-job/</a> // selecting bits, good read, recommended 
 <br>Amana Fusion 360 Tool Library
 
@@ -335,13 +372,6 @@ Emergency Stop (Optional, hopefully)
 
 
 <br>Verify all tool lengths are approx. -10 inches, anything significantly less (0-3 inches) could indicate a bit has been previously zero'd on top of stock.
-<br>2D Adaptive preferred over 2D Pocket, high speed machining (HSM) limits how much of the bit is cutting at a given time, improving tool life and reducing breakage
-
-<br><a rel="noopener" class="external-link" href="https://help.autodesk.com/view/fusion360/ENU/?guid=GUIDA73542E9-ED9C-4BD9-A87D-3A0ECA8BEB41" target="_blank">https://help.autodesk.com/view/fusion360/ENU/?guid=GUIDA73542E9-ED9C-4BD9-A87D-3A0ECA8BEB41</a>
-<br>Optimal load: 0.25 x tool_diameter
-<br>Depth of cut: Max 50% diameter of tool
-
-
 <br><br><br>
 <br>Check the oil level on the back of the spindle head, top off as needed
 <br>On Laguna control console, press the "Lubricant Pump" button
@@ -386,7 +416,7 @@ Emergency Stop (Optional, hopefully)
 <br>VERY IMPORTANT, DO NOT SKIP
 
 
-<br><br><br><a data-href="Laguna Pre-Cut Checklist" href="\public\cnc\laguna-pre-cut-checklist.html" class="internal-link" target="_self" rel="noopener">Laguna Pre-Cut Checklist</a><br><br><a data-href="CNC Project Showcase" href="\public\cnc\cnc-project-showcase.html" class="internal-link" target="_self" rel="noopener">CNC Project Showcase</a>]]></description><link>public\cnc\laguna-cnc-operation-instructions.html</link><guid isPermaLink="false">Public/CNC/Laguna CNC Operation Instructions.md</guid><pubDate>Tue, 07 May 2024 19:54:21 GMT</pubDate><enclosure url="lib\media\pasted-image-20240425125434.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240425125434.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Laguna Pre-Cut Checklist]]></title><description><![CDATA[ 
+<br><br><br><a data-href="Laguna Pre-Cut Checklist" href="\public\cnc\laguna-pre-cut-checklist.html" class="internal-link" target="_self" rel="noopener">Laguna Pre-Cut Checklist</a><br><br><a data-href="CNC Project Showcase" href="\public\cnc\cnc-project-showcase.html" class="internal-link" target="_self" rel="noopener">CNC Project Showcase</a>]]></description><link>public\cnc\laguna-cnc-operation-instructions.html</link><guid isPermaLink="false">Public/CNC/Laguna CNC Operation Instructions.md</guid><pubDate>Thu, 27 Jun 2024 19:07:36 GMT</pubDate><enclosure url="lib\media\pasted-image-20240425125434.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240425125434.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Laguna Pre-Cut Checklist]]></title><description><![CDATA[ 
  <br><br>
 <br>Origin located at BOTTOM of stock
 <br>Tool numbers up to date w/ installed bits
