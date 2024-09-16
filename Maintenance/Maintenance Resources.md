@@ -1,3 +1,7 @@
+---
+title: Maintenance Resources
+layout: default
+---
 # Maintenance Resources
 
 ## Print Quality Troubleshooting Guide
