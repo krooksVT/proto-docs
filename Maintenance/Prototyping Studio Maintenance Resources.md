@@ -1,5 +1,5 @@
 ## Print Quality Troubleshooting Guide
-![Troubleshooting Guide|500](/attachments/pasted-image-20240819091655.png)
+![Troubleshooting Guide](../attachments/pasted-image-20240819091655.png)
 https://www.simplify3d.com/resources/print-quality-troubleshooting/
 ## Hot End Components
 [[attachments/pasted-image-20240819101345.png|500]]
