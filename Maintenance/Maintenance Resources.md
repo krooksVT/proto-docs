@@ -1,4 +1,4 @@
-Header
+
 # Maintenance Resources
 
 ## Print Quality Troubleshooting Guide
