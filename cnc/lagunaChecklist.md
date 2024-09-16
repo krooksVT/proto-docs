@@ -1,3 +1,9 @@
+---
+title: Laguna Pre-Cut Checklist
+layout: default
+parent: CNC
+---
+
 ### Fusion 360
 - [ ] Origin located at BOTTOM of stock
 - [ ] Tool numbers up to date w/ installed bits

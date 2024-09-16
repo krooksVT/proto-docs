@@ -1,5 +1,8 @@
-# Prototyping Studio
-
+---
+title: Index 
+layout: home
+nav_order: 1
+---
 ## Maintenance
 [Maintenance Resources](Maintenance/Maintenance%20Resources)
 ## CNC

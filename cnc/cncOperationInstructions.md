@@ -1,3 +1,8 @@
+---
+title: CNC Operation
+parent: CNC
+layout: default
+---
 ## Hardware
 ### Body
 ![[Pasted image 20240425125434.png]]

@@ -1,3 +1,8 @@
+---
+title: CNC Project Showcase
+layout: default
+parent: CNC
+---
 ## Summer 2024
 
 ### MDF Wing Forms
