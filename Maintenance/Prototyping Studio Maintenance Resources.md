@@ -22,18 +22,18 @@
 ![Fan Shroud](attachments/pasted-image-20240819092845.png)
 [Fan Shroud](attachments/fan-shroud.stl)
 #### Calibration Cube
-![Prusa Calibration Cube](pasted-image-20240819092712.png)
+![Prusa Calibration Cube](attachments/pasted-image-20240819092712.png)
 [Prusa Calibration Cube](attachments/cube_prusa_v1.stl)
 ## LDO Voron 2.4 R2 Rev A
-![LDO Voron 2.4 R2 Rev A](pasted-image-20240819095610.png)
+![LDO Voron 2.4 R2 Rev A](attachments/pasted-image-20240819095610.png)
 ### [Setting Belt Tension](https://docs.vorondesign.com/tuning/secondary_printer_tuning.html#belt-tension)
 ### STLs
 
 #### Test Grid
-![Voron Test Grid](pasted-image-20240819093718.png)
+![Voron Test Grid](attachments/pasted-image-20240819093718.png)
 [Voron Test Grid](attachments/voron_test_grid_v2.stl)
 #### Calibration Cube
-![Voron Calibration Cube](pasted-image-20240819093604.png)
+![Voron Calibration Cube](attachments/pasted-image-20240819093604.png)
 [Calibration Cube](attachments/voron_design_cube_v7.stl)
 ## Configuration File Repository
 - Requires Github account & invite to Prototyping Studio team
