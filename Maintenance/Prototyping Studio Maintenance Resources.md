@@ -2,25 +2,25 @@
 ![Troubleshooting Guide](attachments/pasted-image-20240819091655.png)
 [Print Quality Troubleshooting Guide](https://www.simplify3d.com/resources/print-quality-troubleshooting/)
 ## Hot End Components
-![Hot End Components](attachments/pasted-image-20240819101345.png)
-[Anatory of a Hotend](https://e3d-online.com/blogs/news/anatomy-of-a-hotend)
+![Hot End Components](pasted-image-20240819101345.png)
+[Anatomy of a Hotend](https://e3d-online.com/blogs/news/anatomy-of-a-hotend)
 ## Prusa MK3S
-![Prusa MK3S](attachments/pasted-image-20240819095720.png)
+![Prusa MK3S](pasted-image-20240819095720.png)
 ### Documentation
 [Prusa MK3S Documentation](https://help.prusa3d.com/tag/mk3s)
 ### Cold Pull Procedure
-https://help.prusa3d.com/article/cold-pull-mk3s-mk2-5s_2075
+[Cold Pull Procedure](https://help.prusa3d.com/article/cold-pull-mk3s-mk2-5s_2075)
 ### First Layer Calibration
-[[pasted-image-20240819094609.png|400]]
-https://help.prusa3d.com/article/first-layer-calibration-i3_112364
+![First Layer Calibration](pasted-image-20240819094609.png)
+[First Layer Calibration](https://help.prusa3d.com/article/first-layer-calibration-i3_112364)
 ### Nozzle Replacement
-[[pasted-image-20240819094736.png|400]]
-https://help.prusa3d.com/article/changing-or-replacing-the-nozzle-mk2-5s-mk3s-mk3s-mk3-5_2069
+![Nozzle Replacement](pasted-image-20240819094736.png)
+[Prusa Nozzle Change Procedure](https://help.prusa3d.com/article/changing-or-replacing-the-nozzle-mk2-5s-mk3s-mk3s-mk3-5_2069)
 ### STLs
 
 #### Fan Shroud
-[[pasted-image-20240819092845.png|300]]
-[[fan-shroud.stl]]
+![Fan Shroud](pasted-image-20240819092845.png)
+[Fan Shroud](attachments/fan-shroud.stl)
 #### Calibration Cube
 [[pasted-image-20240819092712.png|300]]
 [[cube_prusa_v1.stl]]
