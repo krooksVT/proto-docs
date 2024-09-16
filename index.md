@@ -1,6 +1,6 @@
 
 ## Maintenance
-[Prototyping Studio Maintenance Resources]('Maintenance/Prototyping Studio Maintenance Resources.md')
+[Prototyping Studio Maintenance Resources](Maintenance/Prototyping Studio Maintenance Resources.md)
 ## CNC
 [[Laguna CNC Operation Instructions]]
 [[Laguna Pre-Cut Checklist]]
