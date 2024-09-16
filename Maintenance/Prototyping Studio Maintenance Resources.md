@@ -1,13 +1,13 @@
 ## Print Quality Troubleshooting Guide
 ![Troubleshooting Guide](attachments/pasted-image-20240819091655.png)
-https://www.simplify3d.com/resources/print-quality-troubleshooting/
+[Print Quality Troubleshooting Guide](https://www.simplify3d.com/resources/print-quality-troubleshooting/)
 ## Hot End Components
-[[pasted-image-20240819101345.png|500]]
+![Hot End Components](attachments/pasted-image-20240819101345.png)
 [Anatory of a Hotend](https://e3d-online.com/blogs/news/anatomy-of-a-hotend)
 ## Prusa MK3S
-[[pasted-image-20240819095720.png|600]]
+![Prusa MK3S](attachments/pasted-image-20240819095720.png)
 ### Documentation
-https://help.prusa3d.com/tag/mk3s
+[Prusa MK3S Documentation](https://help.prusa3d.com/tag/mk3s)
 ### Cold Pull Procedure
 https://help.prusa3d.com/article/cold-pull-mk3s-mk2-5s_2075
 ### First Layer Calibration
