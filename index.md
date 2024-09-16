@@ -11,4 +11,4 @@ nav_order: 1
 [[CNC Project Showcase]]
 ## Demo Board
 [[Prototyping Studio Demo Board]]
-
+Rev 1.1
