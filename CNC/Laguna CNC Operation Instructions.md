@@ -6,7 +6,7 @@
 ### Tool Holder Assembly
 ![[Pasted image 20240425152207.png]]
 ### Tool Rack
-![[PXL_20240319_145331118.jpg|400]]
+![[pxl_20240319_145331118.jpg|400]]
 - Tool rack has space for up to 8 tools, numbered 1-8 (left to right as viewed from front)
 ### Pressure Regulator
 ![[Pasted image 20240425144427.png]]
@@ -166,7 +166,7 @@
 		- Select "Check Code"
 		- Wait for check to complete, indicated by a blue check mark or a reported error
 			- Checkmark does NOT stay on screen, must watch for it  
-![[PXL_20240319_172848682.jpg|500]]
+![[pxl_20240319_172848682.jpg|500]]
 - Load a tool into the toolhead (if not already loaded)
 	- Option 1 - Auto Touchoff (Recommended)
 		- Setup > CNC Tool Data 
@@ -199,7 +199,7 @@
 		- Spindle can be stopped (optional) via
 			- Main > Settings
 			- Set "Spindle Override" to 0%
-![[PXL_20240319_173301916.jpg|500]]
+![[pxl_20240319_173301916.jpg|500]]
 - Resume Operation (Optional)
 	- If spindle was turned off, (0%), set "Spindle Override" to 100%
 		- DO NOT resume cut operation with spindle at 0%, this could damage bits or the machine
@@ -225,8 +225,8 @@
 	- We will run the operations and observe whether any part of the tool head contacts the foam blocks.
 	- If the operation completes issue, we will install clamps in the EXACT space where the foam was located.
 
-![[PXL_20240320_165610904.jpg|350]]
-![[PXL_20240320_170425712.jpg|350]]
+![[pxl_20240320_165610904.jpg|350]]
+![[pxl_20240320_170425712.jpg|350]]
 #### Feeds & Speeds
 - Many tool manufacturers provide feed & speed recommendations for their tools. These settings provide a good starting point and should be utilized when dialing in settings for new materials. It is important to note the RPM ratings on bits and not to exceed these values when setting up operations.
 - Most of the tools used in the Laguna CNC are from Amana Tools. Amana has a Fusion 360 library of their bit offerings, including all the relevant numbers and measurements which describe the tools geometry (number of cutting flutes, length of flutes, bit diameter, etc).
@@ -243,7 +243,7 @@
 	- [[Solid-Carbide-Spiral-Plunge-2-3-Flute-v26.pdf]]
 	- https://www.amanatool.com/pub/media/productattachments/Solid-Carbide-Spiral-Plunge-2-3-Flute-v26.pdf
 #### Adding / Swapping Bits in Tool Change Rack
-![[PXL_20240321_172025118.jpg|300]]
+![[pxl_20240321_172025118.jpg|300]]
 - Choose collet corresponding to bit shank diameter
 	- Collet size engraved on front face
 	- 1/8", 1/4", 3/8", 1/2" imperial sizes available
@@ -253,10 +253,10 @@
 	- The bit shank should be inserted a minimum of 2/3 (100% ideal) of the collet length
 		- For example, a 1.5" length collet requires at least 1" of bit shank inserted, however ideal insert length is 1.5"
 - Finish tightening bit in collet using "ER 32" wrench & CNC tool mount bracket
-![[PXL_20240319_144259489.jpg|300]]
-![[PXL_20240319_171946523.jpg|300]]
+![[pxl_20240319_144259489.jpg|300]]
+![[pxl_20240319_171946523.jpg|300]]
 - Press & hold green button on side of spindle
--  ![[PXL_20240319_172014827.jpg|300]]
+-  ![[pxl_20240319_172014827.jpg|300]]
 - Position tool holder under spindle head
 - Release green button
 

@@ -1,4 +1,4 @@
- ![[PXL_20240822_144006532.png|500]]
+ ![[pxl_20240822_144006532.png|500]]
 ## Code Repository
 https://github.com/Prototyping-Studio/demoBoardPublic/
 ### Commonly Used Headers
@@ -31,7 +31,7 @@ https://github.com/adafruit/Adafruit_VS1053_Library
 ### Sample Code
 https://github.com/Prototyping-Studio/demoBoardPublic/blob/master/music_demo/music_demo.ino
 ## Arcade Button Node
-![[PXL_20240822_160133655.png|300]]
+![[pxl_20240822_160133655.png|300]]
 ### Hardware
 Arcade Button Breakout https://www.adafruit.com/product/5296
 Arcade Button https://www.adafruit.com/product/3430
@@ -42,7 +42,7 @@ Arduino "Metro Mini" https://www.adafruit.com/product/2590
 https://github.com/Prototyping-Studio/demoBoardPublic/blob/master/arcade_button_demo/arcade_button_demo.ino
 https://github.com/Prototyping-Studio/demoBoardPublic/blob/master/arcade_button_demo/ButtonLED.h
 ## LCD Display Node
-![[PXL_20240822_154147049.png|400]]
+![[pxl_20240822_154147049.png|400]]
 ### Hardware
 
 LCD Display https://www.adafruit.com/product/181
@@ -51,14 +51,14 @@ Arduino "Metro Mini" https://www.adafruit.com/product/2590
 ### Sample Code
 https://github.com/Prototyping-Studio/demoBoardPublic/blob/master/lcd_demo/lcd_demo.ino
 ## Air Quality Node
-![[PXL_20240716_214940816.jpg|400]]
+![[pxl_20240716_214940816.jpg|400]]
 ### Hardware
 SGP30 Air Quality Sensor https://www.adafruit.com/product/3709
 Arduino "Metro Mini" https://www.adafruit.com/product/2590
 ### Sample Code
 https://github.com/Prototyping-Studio/demoBoardPublic/blob/master/air_quality_demo/air_quality_demo.ino
 ## LED Matrix Node
-![[PXL_20240715_201005331.jpg|300]]
+![[pxl_20240715_201005331.jpg|300]]
 ### Hardware
 https://www.adafruit.com/product/3444
 ![[Pasted image 20240711092417.png]]
@@ -66,7 +66,7 @@ https://learn.adafruit.com/assets/63279
 ### Sample Code
 https://github.com/Prototyping-Studio/demoBoardPublic/blob/master/matrix_demo/matrix_demo.ino
 ## IR Distance Node
-![[PXL_20240711_130039653.jpg|300]]
+![[pxl_20240711_130039653.jpg|300]]
 ### Hardware
 
 IR Sensor https://www.adafruit.com/product/164
@@ -74,7 +74,7 @@ Arduino "Metro" https://www.adafruit.com/product/2488
 ### Sample Code
 https://github.com/Prototyping-Studio/demoBoardPublic/blob/master/ir_demo/ir_demo.ino
 ## Servo / Linear Actuator Node
-![[PXL_20240822_155323516.jpg|300]]
+![[pxl_20240822_155323516.jpg|300]]
 ### Sample Code
 https://github.com/Prototyping-Studio/demoBoardPublic/blob/master/servo_demo/servo_demo.ino)
 ### Hardware
@@ -82,7 +82,7 @@ https://www.thingiverse.com/thing:3170748
 ### Wiring
 ![[Pasted image 20240814122014.png]]
 ## PIR Node
-![[PXL_20240822_154500545.jpg|300]]
+![[pxl_20240822_154500545.jpg|300]]
 ### Sample Code
 [Sample Code](https://github.com/Prototyping-Studio/demoBoardPublic/blob/master/pir_demo/pir_demo.ino)
 ### Hardware

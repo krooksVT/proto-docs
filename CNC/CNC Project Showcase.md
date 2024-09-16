@@ -2,17 +2,17 @@
 
 ### MDF Wing Forms
 Dual Layer
-![[PXL_20240729_190949474.jpg|400]] 
+![[pxl_20240729_190949474.jpg|400]] 
 Single Layer
-![[PXL_20240722_170217056.jpg|400]]
+![[pxl_20240722_170217056.jpg|400]]
 ### Plywood Camp Sign
-![[PXL_20240702_180558808.jpg|350]]![[PXL_20240715_142834985 1.jpg|350]]
+![[pxl_20240702_180558808.jpg|350]]![[PXL_20240715_142834985 1.jpg|350]]
 ### Foam Topo Map
 ![[Pasted image 20240702142641.png|700]]
 ### Wood Air Foil Form
 ![[Pasted image 20240620173103.png|700]]
 ### Aluminum Faceplate
-![[PXL_20240606_214558811.jpg|700]]
+![[pxl_20240606_214558811.jpg|700]]
 ## Spring 2024
 ### Foam Topo Map
 ![[Pasted image 20240507155313.png|700]]
@@ -21,7 +21,7 @@ Single Layer
 ### Plywood Flat Pack Desk
 ![[Pasted image 20240507155011.png|700]]
 ### Cherry Speaker Cabinets
-![[PXL_20240408_194056440.jpg|400]]
+![[pxl_20240408_194056440.jpg|400]]
 
 ### Brass Retirement Engraving
 ![[Pasted image 20240507160846.png|700]]
