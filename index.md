@@ -1,6 +1,6 @@
 
 ## Maintenance
-[Maintenance Resources](Maintenance%20Resources)
+[Maintenance Resources](Maintenance/Maintenance%20Resources)
 ## CNC
 [[Laguna CNC Operation Instructions]]
 [[Laguna Pre-Cut Checklist]]
