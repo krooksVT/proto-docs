@@ -1,5 +1,3 @@
-[Home](/)
- 
 # Maintenance Resources
 
 ## Print Quality Troubleshooting Guide
