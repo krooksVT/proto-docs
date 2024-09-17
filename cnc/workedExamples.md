@@ -2,7 +2,6 @@
 title: Worked Examples
 parent: CNC
 layout: default
-nav_order: 4
 ---
 ## Worked Examples
 
