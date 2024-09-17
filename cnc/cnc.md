@@ -1,6 +1,7 @@
 ---
-title: CNC 
-layout: default
+title: CNC
 parent: Index
+layout: default
 ---
+
 

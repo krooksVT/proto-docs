@@ -1,7 +1,7 @@
 ---
 title: CNC Project Showcase
 layout: default
-parent: CNC
+parent: Index
 ---
 ## Summer 2024
 
@@ -12,7 +12,7 @@ Single Layer
 ![](../attachments/pxl_20240722_170217056.jpg)
 ### Plywood Camp Sign
 ![](../attachments/pxl_20240702_180558808.jpg)
-![](../attachments/pxl_20240715_142834985 1.jpg)
+![](../attachments/pxl_20240715_142834985-1.jpg)
 ### Foam Topo Map
 ![](../attachments/pasted-image-20240702142641.png)
 ### Wood Air Foil Form
