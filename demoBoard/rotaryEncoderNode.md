@@ -3,7 +3,7 @@ title: Rotary Encoder Node
 layout: default
 parent: Demo Board
 ---
-![](/attachments/pxl_20240822_153808649.jpg)
+![](../attachments/pxl_20240822_153808649.jpg)
 ### Hardware
 <https://www.adafruit.com/product/5752> // I2C rotary interface
 <https://www.adafruit.com/product/5538> // knobs
