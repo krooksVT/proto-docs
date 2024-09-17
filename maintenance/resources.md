@@ -1,6 +1,7 @@
 ---
 title: Maintenance Resources
 layout: default
+parent: Index
 ---
 # Maintenance Resources
 

@@ -5,20 +5,20 @@ layout: default
 ---
 ## Hardware
 ### Body
-![[Pasted image 20240425125434.png]]
+![](../attachments/pasted-image-20240425125434.png)
 ### Tool Head
-![[Pasted image 20240425152111.png]]
+![](../attachments/pasted-image-20240425152111.png)
 ### Tool Holder Assembly
-![[Pasted image 20240425152207.png]]
+![](../attachments/pasted-image-20240425152207.png)
 ### Tool Rack
-![[pxl_20240319_145331118.jpg|400]]
+![](../attachments/pxl_20240319_145331118.jpg)
 - Tool rack has space for up to 8 tools, numbered 1-8 (left to right as viewed from front)
 ### Pressure Regulator
-![[Pasted image 20240425144427.png]]
+![](../attachments/pasted-image-20240425144427.png)
 ### Air Inlet
-![[Pasted image 20240425143741.png]]
+![](../attachments/pasted-image-20240425143741.png)
 ### Control Box
-![[Pasted image 20240425164514.png]]
+![](../attachments/pasted-image-20240425164514.png)
 - Vacuum Table - Vacuum Pump 1
 - Position Rods - Helps with stock alignment
 - E-Stops - Main panel & remote
@@ -39,24 +39,24 @@ layout: default
 	- Post Processing - converts tool paths to CNC specific gcode
 	- Run - gcode is executing on the physical CNC
 
-![[Pasted image 20240423163839.png]]
+![](../attachments/pasted-image-20240423163839.png)
 ##### Creating Setup
 - Switch from "Design" to "Manufacturing" workspace in Fusion (top left corner)
 - Setup > New Setup
 - On "Setup" tab, set "Stock Point" to the BOTTOM corner of the stock
 	- Previous instructions used top of stock & update bit length, this approach is not compatible with multi bit operations
 - Still in "Setup" tab, select the model body/bodies to be machined
-![[Pasted image 20240313132650.png]]
+![](../attachments/pasted-image-20240313132650.png)
 - In the "Stock" tab", select "Fixed Size Box" (preferred) or "Relative Size Box" (advanced)
 - Set stock dimensions to actual measured values
 	- Use calipers to measure stock thicknesses, inaccurate values can result in broken bits
 	- X,Y dimensions are important but not as critical as material thickness (Z).
 - If the model orientation doesn't fit within the specified stock, use a "Manufacturing Model" to rotate or re-arrange parts to fit.
 	- https://help.autodesk.com/view/fusion360/ENU/?guid=MFG-MANUFACTURING-MODEL-OVERVIEW
-	- Manufacturing models are useful for [[#Flat Packing a Design|flat packing a design]] without modifying the model
-		- ![[Pasted image 20240424141613.png]]
+	- Manufacturing models are useful for [[#Flat Packing a Design|flat packing a design) without modifying the model
+		- ![](../attachments/pasted-image-20240424141613.png)
 	- Can also be used to cut multiple identical parts from stock by creating a pattern
-		- ![[Pasted image 20240426144814.png]]
+		- ![](../attachments/pasted-image-20240426144814.png)
 		- https://help.autodesk.com/view/fusion360/ENU/?guid=SKT-CREATE-RECTANGULAR-PATTERN
 ##### Generate Tool Paths
 - Tool paths should be generated immediately prior to cutting to ensure bit numbers have not changed.
@@ -75,13 +75,13 @@ layout: default
 
 ####### Toolpaths from Template
 - Setup > Create From Template > Select Template
-![[Pasted image 20240321100257.png]]
+![](../attachments/pasted-image-20240321100257.png)
 - Make sure "Cloud" templates are selected unless explicitly using a local template
 	- Cloud libraries must be enabled (https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-install-a-cloud-tool-library-in-Fusion-360.html)
 
-![[Pasted image 20240325143617.png]]
+![](../attachments/pasted-image-20240325143617.png)
 - When selecting a contour cut, pay attention to which side of the cut line the bit is on (indicated w/ a red arrow). Clicking on the red arrow will change where the bit cuts relative to the indicated contour line.
-![[Pasted image 20240321100934.png]]
+![](../attachments/pasted-image-20240321100934.png)
 ##### Toolpaths from Scratch
 
 - 2D Adaptive preferred over 2D Pocket, high speed machining (HSM) limits how much of the bit is cutting at a given time, improving tool life and reducing breakage
@@ -95,23 +95,23 @@ layout: default
 			- Indicates how much material is each revolution by each cutting edge when the machine is performing a normal cut, typical values range from (0.002 to 0.01")
 		- Plunge Feed per Revolution
 			- Same as feed per tooth but specific to vertical cutting/drilling, end mills have different geometry than drill bits and are not as efficient cutting straight down into material. Typical values are ~50% of the feed per tooth value (0.001 to 0.005")
-	- ![[Pasted image 20240627150629.png]]
+	- ![](../attachments/pasted-image-20240627150629.png)
 	- Passes Tab
 		- Optimal Load
 			- Indicates the maximum amount of tool engagement, as a rule of thumb this value should be approximately 25% of the tool diameter
 				- For example, a good starting point for a 3/8" endmill is 0.09375" (0.375 * 0.25)
 			- This value can be increased or decrease when machining harder/softer materials (lower for hard materials, higher for soft materials)
 		- Maximum Roughing Stepdown
-	- ![[Pasted image 20240627150658.png]]
+	- ![](../attachments/pasted-image-20240627150658.png)
 ##### Simulation
 - All generated tool paths should be simulated prior to post processing
 - Individual or multiple tool paths can be simulated by selecting desired operations (or setup for all), then selecting "Simulate"
-![[Pasted image 20240325132025.png]]
+![](../attachments/pasted-image-20240325132025.png)
 - Use the play/pause buttons at the bottom of the screen to preview the operations.
 - Watch for any errors/warnings in simulation timeline (indicated by vertical red lines)
 - Do NOT post process any operation that has simulation errors, it could result in damage to equipment and/or stock. 
 - Hovering over errors will give a description of issue that must be addressed in the tool path settings.
-![[Pasted image 20240325131546.png]]
+![](../attachments/pasted-image-20240325131546.png)
 ##### Post Processing
 - Post processing creates the gcode file for a specific CNC
 - For setups with multiple operations, can either generate a single file or multiple files
@@ -121,13 +121,13 @@ layout: default
 	- Individual operations are estimated to take a long time (estimated machining times are shown in the bottom right corner of the screen)
 	- Manual tool changes are required
 	- Parts need to be inspected after an operation before proceeding
-![[Pasted image 20240325133105.png]]
+![](../attachments/pasted-image-20240325133105.png)
 - The "Post Processing" screen allows the output files to be named (if not already configured via the Setup > Post Processing tab) and specifies an output directory for the gcode file (.PRG)
 - Make sure the "Laguna CNC / laguna" post processor is selected, if not use the navigator to find it via Fusion's cloud library.
 - The units should be set to "Document unit" to ensure tool paths are scaled correctly.
 - Select "Post" to generate the gcode
 - Copy the output file to a USB drive for use in the CNC Control System
-![[Pasted image 20240325134011.png]]
+![](../attachments/pasted-image-20240325134011.png)
 ## Worked Examples
 
 ### Flat Packing a Design
@@ -140,9 +140,9 @@ layout: default
 
 ## Procedures
 ### Startup Procedure
-- Turn on air pressure using [[#Air Inlet|wall mounted valve]]
-- Verify pressure on [[#Pressure Regulator|regulator]] is approximately 0.45 MPa
-- Turn on power using the [[#Control Box|power switch]] on the control box
+- Turn on air pressure using [[#Air Inlet|wall mounted valve)
+- Verify pressure on [[#Pressure Regulator|regulator) is approximately 0.45 MPa
+- Turn on power using the [[#Control Box|power switch) on the control box
 - Switch key to "ON" (clockwise)
 - Press green power button
 - Wait for system to boot
@@ -171,7 +171,7 @@ layout: default
 		- Select "Check Code"
 		- Wait for check to complete, indicated by a blue check mark or a reported error
 			- Checkmark does NOT stay on screen, must watch for it  
-![[pxl_20240319_172848682.jpg|500]]
+![](../attachments/pxl_20240319_172848682.jpg)
 - Load a tool into the toolhead (if not already loaded)
 	- Option 1 - Auto Touchoff (Recommended)
 		- Setup > CNC Tool Data 
@@ -194,9 +194,9 @@ layout: default
 	- **DO NOT PRESS** "Teach Tool Length", tools should only be zero'd using the auto touch off system
 	- Verify X,Y origin was set correctly
 		- With "Zero Point Offset" selected from the drop down (not Machine Coordinates or Relative Coordinates), verify X Axis and Y Axis read <= 0.001 in
-![[PXL_20240319_173002852 1.jpg|500]]
+![](PXL_20240319_173002852 1.jpg)
 
-- Run through the [[Laguna Pre-Cut Checklist]]
+- Run through the [[Laguna Pre-Cut Checklist)
 - From main screen press "Run"
 - Pause Operation (Optional) 
 	- To pause operation, press "Hold" from main screen
@@ -204,7 +204,7 @@ layout: default
 		- Spindle can be stopped (optional) via
 			- Main > Settings
 			- Set "Spindle Override" to 0%
-![[pxl_20240319_173301916.jpg|500]]
+![](../attachments/pxl_20240319_173301916.jpg)
 - Resume Operation (Optional)
 	- If spindle was turned off, (0%), set "Spindle Override" to 100%
 		- DO NOT resume cut operation with spindle at 0%, this could damage bits or the machine
@@ -230,25 +230,25 @@ layout: default
 	- We will run the operations and observe whether any part of the tool head contacts the foam blocks.
 	- If the operation completes issue, we will install clamps in the EXACT space where the foam was located.
 
-![[pxl_20240320_165610904.jpg|350]]
-![[pxl_20240320_170425712.jpg|350]]
+![](../attachments/pxl_20240320_165610904.jpg)
+![](../attachments/pxl_20240320_170425712.jpg)
 #### Feeds & Speeds
 - Many tool manufacturers provide feed & speed recommendations for their tools. These settings provide a good starting point and should be utilized when dialing in settings for new materials. It is important to note the RPM ratings on bits and not to exceed these values when setting up operations.
 - Most of the tools used in the Laguna CNC are from Amana Tools. Amana has a Fusion 360 library of their bit offerings, including all the relevant numbers and measurements which describe the tools geometry (number of cutting flutes, length of flutes, bit diameter, etc).
 #### End Mill Anatomy
 
-![[Pasted image 20240321105401.png]]
+![](../attachments/pasted-image-20240321105401.png)
 - https://www.endmill.com.au/blog/choosing-the-right-end-mill-for-the-job/ // selecting bits, good read, recommended 
 - Amana Fusion 360 Tool Library
 	- https://www.amanatool.com/view-amana-tool-fusion-360-library
-	- [[Amana-Tool-Fusion-Master.tools]]  // available via Prototyping Studio team cloud
+	- [[Amana-Tool-Fusion-Master.tools)  // available via Prototyping Studio team cloud
 - Sample bit
 	- https://www.amanatool.com/46420-solid-carbide-spiral-plunge-3-8-dia-x-1-1-4-x-3-8-shank-down-cut.html?ff=1&fp=8806
 - Sample feeds and speeds
-	- [[Solid-Carbide-Spiral-Plunge-2-3-Flute-v26.pdf]]
+	- [[Solid-Carbide-Spiral-Plunge-2-3-Flute-v26.pdf)
 	- https://www.amanatool.com/pub/media/productattachments/Solid-Carbide-Spiral-Plunge-2-3-Flute-v26.pdf
 #### Adding / Swapping Bits in Tool Change Rack
-![[pxl_20240321_172025118.jpg|300]]
+![](../attachments/pxl_20240321_172025118.jpg)
 - Choose collet corresponding to bit shank diameter
 	- Collet size engraved on front face
 	- 1/8", 1/4", 3/8", 1/2" imperial sizes available
@@ -258,10 +258,10 @@ layout: default
 	- The bit shank should be inserted a minimum of 2/3 (100% ideal) of the collet length
 		- For example, a 1.5" length collet requires at least 1" of bit shank inserted, however ideal insert length is 1.5"
 - Finish tightening bit in collet using "ER 32" wrench & CNC tool mount bracket
-![[pxl_20240319_144259489.jpg|300]]
-![[pxl_20240319_171946523.jpg|300]]
+![](../attachments/pxl_20240319_144259489.jpg)
+![](../attachments/pxl_20240319_171946523.jpg)
 - Press & hold green button on side of spindle
--  ![[pxl_20240319_172014827.jpg|300]]
+-  ![](../attachments/pxl_20240319_172014827.jpg)
 - Position tool holder under spindle head
 - Release green button
 
@@ -300,11 +300,11 @@ layout: default
 	- Set 'Z-Spoil' to 0.0
 - Set X,Y zero point on corner of stock
 - Run program, should remove less than 1/8" of material
-- [[#Running Program|Run the program]]
+- [[#Running Program|Run the program)
 - After cut finishes, set 'Z-Spoil' to the stock thickness specified in Fusion
 	- VERY IMPORTANT, DO NOT SKIP
 ## References
 ### Pre-Cut Checklist
-[[Laguna Pre-Cut Checklist]]
+[[Laguna Pre-Cut Checklist)
 ### Project Showcase
-[[CNC Project Showcase]]
+[[CNC Project Showcase)

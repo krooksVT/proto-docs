@@ -1,11 +1,6 @@
 ---
 title: CNC 
 layout: default
+parent: Index
 ---
-## Laguna Smart SUV
-[CNC Operation](cncOperationInstructions)
-
-[Pre-Cut Checklist](lagunaChecklist)
-
-[Project Showcase](projectShowcase)
 
